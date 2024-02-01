@@ -1,1 +1,9 @@
 /// <reference types="vite/client" />
+  VITE_APIKEY = "AIzaSyCa5OIaz5T6hviv0E-KQ8tDHjHH7E-w6QA",
+  VITE_AUTHDOMAIN= "cg-23-santa-clara-de-asis.firebaseapp.com",
+  VITE_DATABASEURL= "https://cg-23-santa-clara-de-asis-default-rtdb.firebaseio.com",
+  VITE_PROJECTID= "cg-23-santa-clara-de-asis",
+  VITE_STORAGEBUCKET= "cg-23-santa-clara-de-asis.appspot.com",
+  VITE_MESSAGINGSENDERID= "431548175419",
+  VITE_APPID= "1:431548175419:web:2e276cd1df067e42fb781e",
+  VITE_MEASSUREMENTID= "G-SJDCM26BGJ"
